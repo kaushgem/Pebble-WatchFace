@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "talkeeee@gmail.com",
+    "longName": "Tutorial_1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial_1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0c522347-d8d9-4aba-af5b-86c8be359ce5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
