@@ -7,7 +7,18 @@
     "longName": "Tutorial_1",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/backgroundPebble.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Tutorial_1",
@@ -18,6 +29,6 @@
     "uuid": "0c522347-d8d9-4aba-af5b-86c8be359ce5",
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
